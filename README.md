@@ -3,4 +3,4 @@
 <br><br>
 <img src="https://media.discordapp.net/attachments/944143534783627294/1010409814687498240/IMG_20220820_114638.jpg" width="50%">
 <br><br>
-<img src=" https://media.discordapp.net/attachments/1003173519879847966/1014717312407969822/unknown.png">
+<img src="https://media.discordapp.net/attachments/1003173519879847966/1014717312407969822/unknown.png">
